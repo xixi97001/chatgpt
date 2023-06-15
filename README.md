@@ -90,17 +90,6 @@ https://platform.openai.com/docs/guides/chat/introduction
 
 https://platform.openai.com/docs/api-reference/models/list
 
-------
-**对chatgpt感兴趣的同学们欢迎加群讨论。群里有很多大神，有问题可以互相帮助。**
-
-旧群已满，请加新群。
-
-![微信截图_20230604114149](https://github.com/dirk1983/chatgpt/assets/5563148/99ca8f9c-46ed-44a8-9f49-75fbf3b66b44)
-
-
-有热心网友建议我放个打赏码，各位如果真的想表达感谢，小额即可。
-
-![打赏码](https://user-images.githubusercontent.com/5563148/222968018-9def451a-bbce-4a7e-bde6-edecc7ced40f.jpg)
 
 最后，我还做了个在微信个人订阅号中通过调用OpenAI最新接口和gpt-3.5-turbo模型实现ChatGPT聊天机器人的功能，已开源，需要的朋友也可以拿去。
 https://github.com/dirk1983/chatgpt-wechat-personal
